@@ -1,5 +1,15 @@
 # 💫 About Me:
-Iَ'm a result-driven SRE/DevOps engineer with diverse skills in Linux system administration, operation engineering, and R&D who obtained solid interpersonal communication skills, stress management, effective collaboration, time management and a forward-thinking mindset throughout my career. I'm eagerly committed to continuous learning and plan to enhance my DevOps and cloud engineering skills.
+⎈ I am Interested in :
+
+- Continuously learning and growth
+- New Challenges
+- To be beneficial for others
+
+⎈ More about me:
+
+Passion, hard work, and well-suited inborn characteristics will pay off. I've been trying hard to level myself up from the ground for years. I was an inexperienced young man from Ilam ( One of the poorest and least privileged provinces in my country, Iran), I've obtained different areas of specialties like #Linux and #Windows infrastructure maintenance, administration, and monitoring in highly mixed environments in data centers, operational responsibilities in critical financial service providers and much more; I gained two primary priceless expertise, first a range of soft skills in terms of stress management, team working, mentorship, time management and having a growth mindset. Additionally, Hands-on experience in administering Linux-based infrastructures widely opened my eyes through root cause analysis and doing R&D tasks. Lastly, being somehow experienced in T-shooting and optimizing #DevOps stages, coupled with my eagerness and enthusiasm for #open_source _technologies and #Cloud_trends, would be good concrete for my future career prospects. So, I am ready to join your team and enjoy living the life with you!
+(Finally, You may want to find out more about my personality as an ISTJ person:
+https://www.16personalities.com/istj-personality)
 
 
 ## 🌐 Socials:
